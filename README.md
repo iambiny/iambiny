@@ -3,16 +3,14 @@
 - 👋 Hi, My name is Truong Tuan Anh (@iambiny)
 - 👀 I’m interested in Java and Python
 - 🌱 I’m currently learning Mobile App
-- 📫 Contact me: @anhtruong100703@gmail.com
 - 😄 Hobby: Listening, Cycling, Playing and Learning
 
-## Getting Started
+## Education
 
 - I am studying in 3rd year at the University of Transports and Communications.
 
-### Anything else?
-
-- I think ...
+## Contact Me:
+- 📫 Contact me: @anhtruong100703@gmail.com
 
 
 <!---
