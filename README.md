@@ -1,13 +1,13 @@
 # About Me
 
-- 👋 Hi, My name is Truong Tuan Anh (@iambiny)
-- 👀 I’m interested in Java and Python
-- 🌱 I’m currently learning Mobile App
-- 😄 Hobby: Listening, Cycling, Playing and Learning
+- 👋 Hi, my name is Truong Tuan Anh (@iambiny), and I'm from Hanoi, Vietnam.
+- 👀 I'm currently learning to become a Fullstack Web Developer.
+- 🌱 I work primarily with TypeScript, and occasionally with Java and Python.
+- 😄 My hobbies: Listening to music, cycling, playing games, and learning new things.
 
 ## Education
 
-- I am studying in 3rd year at the University of Transports and Communications.
+- I'm a 4th-year student, majoring in Information Technology, at the University of Transport and Communications.
 
 ## Contact Me:
 - 📫 Contact me: @anhtruong100703@gmail.com
